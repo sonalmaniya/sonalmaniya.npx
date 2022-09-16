@@ -9,18 +9,6 @@
 <br />
 <br />
 
-<!-- # Demo.
-
-<br />
-<br /> -->
-
-# Why?
-
-I created this command as sort of my portfolio that can be accessed from any terminal with Node.js. I was very curious to see if such a thing could be accomplished and it turned out to be quite easy in the end.
-
-<br />
-<br />
-
 # Run.
 
 Assuming you have Node.js installed, to run this command, simply do.
@@ -28,6 +16,11 @@ Assuming you have Node.js installed, to run this command, simply do.
 ```sh
 npx sonalmaniya
 ```
+
+# How to create
+follow this repo to create npx bio
+https://github.com/MustansirZia/mustansir.npx
+Credit goes to Mustansir.
 
 # License.
 
